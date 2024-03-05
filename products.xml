@@ -1,0 +1,37 @@
+<catalog>
+    <product>
+        <name>Ноутбук Acer Aspire</name>
+        <category>Ноутбуки</category>
+        <price>45000</price>
+        <description>Мощный ноутбук с высокой производительностью и долгим временем работы от аккумулятора.</description>
+        <image>https://phonoteka.org/uploads/posts/2021-05/1621486600_28-phonoteka_org-p-fon-dlya-magazina-elektroniki-30.jpg</image>
+    </product>
+    <product>
+        <name>Смартфон Samsung Galaxy S21</name>
+        <category>Смартфоны</category>
+        <price>55000</price>
+        <description>Современный смартфон с высококачественным дисплеем и множеством функций.</description>
+        <image>https://phonoteka.org/uploads/posts/2021-05/1621486600_28-phonoteka_org-p-fon-dlya-magazina-elektroniki-30.jpg</image>
+    </product>
+    <product>
+        <name>Планшет Apple iPad Air</name>
+        <category>Планшеты</category>
+        <price>35000</price>
+        <description>Легкий и компактный планшет с Retina дисплеем и мощным процессором.</description>
+        <image>https://phonoteka.org/uploads/posts/2021-05/1621486600_28-phonoteka_org-p-fon-dlya-magazina-elektroniki-30.jpg</image>
+    </product>
+    <product>
+        <name>Графическая видеокарта NVIDIA GeForce RTX 3080</name>
+        <category>Компьютерные компоненты</category>
+        <price>60000</price>
+        <description>Профессиональная видеокарта для игр и графических приложений с высокой производительностью.</description>
+        <image>https://phonoteka.org/uploads/posts/2021-05/1621486600_28-phonoteka_org-p-fon-dlya-magazina-elektroniki-30.jpg</image>
+    </product>
+    <product>
+        <name>Беспроводная гарнитура Sony WH-1000XM4</name>
+        <category>Аксессуары</category>
+        <price>20000</price>
+        <description>Шумоподавляющая гарнитура с отличным качеством звука и долгим временем работы от батареи.</description>
+        <image>https://phonoteka.org/uploads/posts/2021-05/1621486600_28-phonoteka_org-p-fon-dlya-magazina-elektroniki-30.jpg</image>
+    </product>
+</catalog>
